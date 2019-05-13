@@ -1,0 +1,24 @@
+{
+    "name": "@filipekiss/prettier-config",
+    "version": "1.0.0",
+    "description": "My prettier config",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/filipekiss/prettier-config.git"
+    },
+    "keywords": [
+        "prettier",
+        "config"
+    ],
+    "author": "Filipe Kiss <hello@filipekiss.com.br> (https://github.com/filipekiss)",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/filipekiss/prettier-config/issues"
+    },
+    "homepage": "https://github.com/filipekiss/prettier-config#readme",
+    "private": false
+}
